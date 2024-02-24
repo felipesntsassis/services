@@ -18,6 +18,13 @@
   width: 90%;
   height: 70%;
   margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card__body > img {
+  height: 250px;
 }
 
 .card__stats {
